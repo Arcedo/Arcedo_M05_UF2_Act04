@@ -3,8 +3,8 @@
 En aquesta activitat he agafat els codis de l'activitat anterior i els he pujat amb git, d'aquesta manera he apres com funciona mes o menys git i github.
 
 ## Codi
-Codi antic 'original_exercici_act3.cpp'
-	'''
+Codi antic `original_exercici_act3.cpp`:
+```c++
 	/*
 	Nom: ___________________
 	S'ha d'optimitzar aquest codi tot el que pugueu.
@@ -244,9 +244,9 @@ Codi antic 'original_exercici_act3.cpp'
 	    } while (repetir);
 			return 0;
 	}
-	```
-Codi modificat 'modificat_exercici_act3.cpp'
-	'''
+```
+Codi modificat 'modificat_exercici_act3.cpp':
+```c++
 	/*
 	Nom: Marc Arcedo
 	S'ha d'optimitzar aquest codi tot el que pugueu.
@@ -430,4 +430,4 @@ Codi modificat 'modificat_exercici_act3.cpp'
 	    cout << "\033[1;33m " << vc[carta_mano_maquina].numero << " de " << vc[carta_mano_maquina].palo << "\033[0m" << endl;
 	  }
 	}
-	'''
+```
