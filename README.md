@@ -1,6 +1,8 @@
 # M05 UF2 Activitat04 Arcedo Marc
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="40%">
-En aquesta activitat he agafat els codis de l'activitat anterior i els he pujat amb git, d'aquesta manera he apres com funciona mes o menys git i github.
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="20%"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="20%"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="20%"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="20%"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="20%">
+<img src="https://octodex.github.com/images/original.png"  width="40%">
+
+### En aquesta activitat he agafat els codis de l'activitat anterior i els he pujat amb git, d'aquesta manera he apres com funciona mes o menys git i github.
 
 ## Codi
 Codi antic `original_exercici_act3.cpp`:
