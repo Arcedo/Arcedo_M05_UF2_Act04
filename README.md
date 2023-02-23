@@ -4,6 +4,7 @@ En aquesta activitat he agafat els codis de l'activitat anterior i els he pujat 
 
 ## Codi
 Codi antic 'original_exercici_act3.cpp'
+	'''
 	/*
 	Nom: ___________________
 	S'ha d'optimitzar aquest codi tot el que pugueu.
@@ -243,7 +244,9 @@ Codi antic 'original_exercici_act3.cpp'
 	    } while (repetir);
 			return 0;
 	}
+	```
 Codi modificat 'modificat_exercici_act3.cpp'
+	'''
 	/*
 	Nom: Marc Arcedo
 	S'ha d'optimitzar aquest codi tot el que pugueu.
@@ -427,3 +430,4 @@ Codi modificat 'modificat_exercici_act3.cpp'
 	    cout << "\033[1;33m " << vc[carta_mano_maquina].numero << " de " << vc[carta_mano_maquina].palo << "\033[0m" << endl;
 	  }
 	}
+	'''
